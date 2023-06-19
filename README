@@ -1,0 +1,4 @@
+This python file gives a glimpse of the summarizer tool I worked on at CyberNest. This covers
+a lot of the backend functionality of the tool. I wasn't able to include the parts that invovled me 
+connecting this tool to the front-end of the site. Thus, the file is a little be reworked/shortened from 
+what it was in deployment.
